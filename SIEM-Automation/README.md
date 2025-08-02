@@ -4,7 +4,7 @@ This repository provides a structured, secure template for building Kibana/Elast
 
 ## Overview
 
-The script ('final.py`) simulates a workflow that:
+The script ('report.py`) simulates a workflow that:
 
 - Queries a Kibana saved search
 - Checks whether the result count exceeds a threshold
