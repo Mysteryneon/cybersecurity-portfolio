@@ -10,17 +10,17 @@ This GitHub portfolio documents tools, scripts, and structured lab notes develop
 
 ## Projects
 
-### 1. elastic-kibana-reporting
+### 1. SIEM-Automation
 Automates report exports from Kibana Discover views. Supports conditional logic based on hit count thresholds to either export CSV files or notify users. Built to support operational visibility and monitoring in a SIEM context.  
-[github.com/Mysteryneon/cybersecurity-portfolio/tree/main/elastic-kibana-reporting](https://github.com/Mysteryneon/cybersecurity-portfolio/tree/main/elastic-kibana-reporting)
+[github.com/Mysteryneon/cybersecurity-portfolio/tree/main/SIEM-Automation](https://github.com/Mysteryneon/cybersecurity-portfolio/tree/main/SIEM-Automation)
 
-### 2. pentest-scripts
+### 2. Bash-Scripts-Pentest
 A library of Bash and Python scripts designed to support penetration testing, incident triage, and red-team operations. Tools are organized by function (enumeration, network recon, exploitation, forensics, OSINT) and optimized for use in Kali Linux environments.  
-[github.com/Mysteryneon/cybersecurity-portfolio/tree/main/pentest-scripts](https://github.com/Mysteryneon/cybersecurity-portfolio/tree/main/pentest-scripts)
+[github.com/Mysteryneon/cybersecurity-portfolio/tree/main/Bash-Scripts-Pentest](https://github.com/Mysteryneon/cybersecurity-portfolio/tree/main/Bash-Scripts-Pentest)
 
-### 3. lab_notes
+### 3. Red teaming
 A structured and fully organized collection of hands-on practice notes from simulated red-team lab environments. Includes categorized Markdown writeups covering enumeration, privilege escalation, post-exploitation workflows, and common misconfiguration patterns.  
-[github.com/Mysteryneon/cybersecurity-portfolio/tree/main/lab_notes](https://github.com/Mysteryneon/cybersecurity-portfolio/tree/main/lab_notes)
+[github.com/Mysteryneon/cybersecurity-portfolio/tree/main/Red%20teaming](https://github.com/Mysteryneon/cybersecurity-portfolio/tree/main/Red%20teaming)
 
 ---
 
